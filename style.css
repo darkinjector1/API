@@ -1,0 +1,23 @@
+body{
+background:#020617;
+color:white;
+font-family:Arial;
+text-align:center;
+}
+
+.post{
+background:#0f172a;
+padding:20px;
+margin:20px auto;
+width:80%;
+border-radius:10px;
+}
+
+img{
+width:300px;
+border-radius:10px;
+}
+
+video{
+width:350px;
+}
